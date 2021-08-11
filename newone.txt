@@ -1,3 +1,4 @@
 This is a new file.
 Trying to see after adding this file to git, what will happen to log.
 Adding a new line.
+Try git status again.
