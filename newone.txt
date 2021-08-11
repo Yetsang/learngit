@@ -1,0 +1,2 @@
+This is a new file.
+Trying to see after adding this file to git, what will happen to log.
